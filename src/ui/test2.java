@@ -582,8 +582,8 @@ public class test2 extends JFrame {
 				test2.this.ready.refresh();
 			}
 		});
-		sortByCT.setIcon(new ImageIcon("D:\\a\\java\\Shixun\\test\\Test\\resource\\down.jpg"));
-		sortByCT.setSelectedIcon(new ImageIcon("D:\\a\\java\\Shixun\\test\\Test\\resource\\up.jpg"));
+		sortByCT.setIcon(new ImageIcon(".\\resource\\down.jpg"));
+		sortByCT.setSelectedIcon(new ImageIcon(".\\resource\\up.jpg"));
 		
 		sortByCT.setToolTipText("sort by create time");
 		sortByCT.setBounds(35, 139, 22, 23);
@@ -602,8 +602,8 @@ public class test2 extends JFrame {
 				test2.this.ready.refresh();
 			}
 		});
-		sortBySFT.setIcon(new ImageIcon("D:\\a\\java\\Shixun\\test\\Test\\resource\\down.jpg"));
-		sortBySFT.setSelectedIcon(new ImageIcon("D:\\a\\java\\Shixun\\test\\Test\\resource\\up.jpg"));
+		sortBySFT.setIcon(new ImageIcon(".\\resource\\down.jpg"));
+		sortBySFT.setSelectedIcon(new ImageIcon(".\\resource\\up.jpg"));
 		sortBySFT.setToolTipText("sort by should finished time");
 		sortBySFT.setBounds(64, 139, 16, 23);
 		todo.add(sortBySFT);
