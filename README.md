@@ -1,5 +1,5 @@
 # personal-infomation-management-system
-this is school database course job
+this is school database course homework
 JavaSE 15 can run
 use swing
 
